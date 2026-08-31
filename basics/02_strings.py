@@ -19,9 +19,9 @@ print(len(full_name))
 # check whether particular word exist in fullname
 specific_word = "cool"
 if specific_word in full_name:
-    print(specific_word, " exist in full_name")
+    print(specific_word, "exist in full_name")
 else:
-    print(specific_word, " doesnt exist in full_name")
+    print(specific_word, "doesnt exist in full_name")
 
 
 # Use f-string to display name
